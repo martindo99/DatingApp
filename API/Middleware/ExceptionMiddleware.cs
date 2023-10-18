@@ -1,7 +1,6 @@
 ﻿using System.Net;
 using System.Text.Json;
 using API.Errors;
-using SQLitePCL;
 
 namespace API.Middleware
 {
